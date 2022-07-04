@@ -9,7 +9,21 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm an Digital Artist**
 
-**Languages and Tools I've worked and work with:**
+
+### Connect with me:
+<p align="left">
+<a href="https://twitter.com/arryartz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arryartz" height="20" width="40" /></a>
+<a href="https://discord.com/users/458326067741065217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="20" width="40" /></a> 
+   </p>
+
+
+
+
+<br/>
+<br/>
+   <br/>
+
+  **Languages and Tools I've worked and work with:**
 
 
 <span><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
@@ -20,7 +34,10 @@
    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
    <img height="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg">
 
-<p align="center">
+<span/>
+   
+   <br/>
+   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/?username=Arry-Minati&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="My GitHub Stats">
    <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arry-Minati&layout=compact&theme=radical&hide_border=true" alt="My GitHub langs">
