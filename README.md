@@ -12,8 +12,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/arryartz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arryartz" height="20" width="40" /></a>
-<a href="https://discord.com/users/458326067741065217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="20" width="40" /></a> 
+<a href="https://twitter.com/arryartz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arryartz" height="30" width="40" /></a>
+<a href="https://discord.com/users/458326067741065217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="30" width="40" /></a> 
    </p>
 
 
@@ -21,7 +21,7 @@
 
 <br/>
 <br/>
-   <br/>
+   
 
   **Languages and Tools I've worked and work with:**
 
