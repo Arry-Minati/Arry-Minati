@@ -3,7 +3,7 @@
 
    ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Animation and Game Dev**
-- 🌱 I’m currently learning **C#, spine 2D, Unity**
+- 🌱 I’m currently learning **C#, spine 2D, Unity, spline**
 
 - 📫 How to reach me: **arryminati02@gmail.com**
 - 😄 Pronouns: **He/Him**
