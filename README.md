@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Animation and Game Dev**
 - 🌱 I’m currently learning **C#, spine 2D, Unity, spline**
 
-- 📫 How to reach me: **acontactaryakumar@gmail.com**
+- 📫 How to reach me: **contactaryakumar@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm an Digital Artist**
 
