@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Animation and Game Dev**
 - 🌱 I’m currently learning **C#, spine 2D, Unity, spline**
 
-- 📫 How to reach me: **arryminati02@gmail.com**
+- 📫 How to reach me: **acontactaryakumar@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm an Digital Artist**
 
@@ -23,7 +23,7 @@
 <br/>
    
 
-  **Languages and Tools I've worked and work with:**
+  **Languages and Tools I've worked with and continue to work with:**
 
 
 <span><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
