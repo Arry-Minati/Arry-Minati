@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: **contactaryakumar@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I'm an Digital Artist**
 
 
 ### Connect with me:
